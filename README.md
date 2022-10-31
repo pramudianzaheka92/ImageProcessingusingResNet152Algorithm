@@ -11,4 +11,4 @@ Image Processing using ResNet152 Algorithm with several image dataset (as stated
 Total Data = 7,142
 
 ## Methodology
-![Alt text](Graph/flowchart_desainSistem.png?raw=true)
+![Alt text](Graph/Diagram/flowchart_desainSistem.png?raw=true)
